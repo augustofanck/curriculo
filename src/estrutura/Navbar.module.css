@@ -1,0 +1,53 @@
+.topo {
+    display: flex;
+    justify-content: space-between;
+    background-color: #222;
+    padding: 1em;
+}
+
+.img {
+    height: 3em;
+    width: 3em;
+}
+
+.list {
+    display: flex;
+    list-style: none;
+    align-items: center;
+}
+
+.item {
+    margin-right: 1em;
+
+}
+
+.item a, .item {
+    color: #FFF;
+    text-decoration: none;
+    cursor: pointer;
+    padding: 0 0.5em;
+}
+
+.item a:hover, .item:hover {
+    color: #7a1010;
+}
+
+.dropdown > ul {
+    display: none;
+    position: absolute;
+    background-color: #222222;
+    width: 10em;
+    padding: .5em .5em;
+    list-style: none;
+    transition: 1s;
+    border-radius: 0.35em;
+}
+
+.dropdown > ul > li {
+    padding: 1em;
+}
+
+.active {
+    display:block !important;
+
+}
