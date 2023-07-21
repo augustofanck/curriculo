@@ -22,6 +22,6 @@ Na página Home, você poderá ver um pouco mais sobre a minha pessoa. Nela, ten
 
 Na página Portfólio, você poderá ver alguns conteúdos que eu projetei enquanto programador. Muitos deles estão diretamente atrelados às empresas que eu já passei, portanto, podem não conter um código fonte ou repositório público propriamente dito.
 
-## Contato
+### Contato
 
-A página de contato, vai te fornecer as informações para conseguir chegar até mim, você pode me encontrar em algumas redes sociais, assim como, me enviar uma mensagem diretamente!
+A página de contato, vai te fornecer as informações para conseguir chegar até mim, você pode me encontrar em algumas redes sociais, assim como, me enviar uma mensagem diretamente.
