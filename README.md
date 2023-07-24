@@ -8,13 +8,13 @@ Dentro do projeto, você poderá encontrar algumas funcionalidades interessantes
 
 ## Estrutura
 
-Dentro da estrutura do projeto, optei por divergir-lo em quatro abas dentro de uma barra de navegação (navbar). Neste navbar, você poderá encontrar os seguintes caminhos:
+Dentro da estrutura do projeto, optei por divergir-lo em três abas dentro de uma barra de navegação (navbar). Neste navbar, você poderá encontrar os seguintes caminhos:
 
-- Home
+- Início
 - Portfólio
 - Contato
 
-### Home
+### Início
 
 Na página Home, você poderá ver um pouco mais sobre a minha pessoa. Nela, tentarei te contar um pouco sobre meus conhecimentos, de onde eu sou e quais são minhas intenções como um programador.
 
