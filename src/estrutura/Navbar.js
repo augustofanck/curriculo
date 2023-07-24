@@ -13,7 +13,7 @@ function Navbar() {
             </Link>
 
             <ul className={styles.list}>
-                <li className={styles.item}><Link to="/">Home</Link></li>
+                <li className={styles.item}><Link to="/">Início</Link></li>
                 <li className={styles.item}><Link to="/">Portfólio</Link></li>
                 <li className={styles.item}><Link to="/">Contato</Link></li>
             </ul>

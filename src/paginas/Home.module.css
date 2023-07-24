@@ -1,0 +1,37 @@
+.estrutura {
+    display: block;
+    color: #fff;
+}
+
+.homeHeader {
+    display: flex;
+    color: #222;
+}
+
+.homeContent {
+    background: #fff;
+    color: #222;
+    text-align: justify;
+}
+
+.formHorizontal {
+    width: 100%;
+    display: inline-flex;
+}
+
+.leftCol{
+    width: 50%; 
+    padding-right: 1em;
+    padding-bottom: .5em;
+} 
+
+.rightCol {
+    width: 50%; 
+    padding-left: 1em;
+    padding-bottom: .5em;
+}
+
+.sobreTitulo {
+    text-align: center;
+    color: #222;
+}
